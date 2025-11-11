@@ -1,0 +1,9 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": [],
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "python.analysis.autoImportCompletions": true
+}
